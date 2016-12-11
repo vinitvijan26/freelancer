@@ -4,4 +4,4 @@ as the name says, it's a website for freelancers, and people who want to hire fr
 
 screenshots:
 
-https://github.com/vinitvijan26/freelancer/blob/master/screenshots/Screen%20Shot%202016-12-11%20at%202.28.08%20PM.png
+screenshots/Screen Shot 2016-12-11 202.28.08 PM.png
