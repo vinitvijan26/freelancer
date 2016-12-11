@@ -4,4 +4,9 @@ as the name says, it's a website for freelancers, and people who want to hire fr
 
 screenshots:
 
-screenshots/ScreenShot2016-12-11202.28.08PM.png
+![alt text](screenshots/ScreenShot2016-12-11at2.28.08PM.png "Index page ")
+![alt text](screenshots/ScreenShot2016-12-11at2.28.22PM.png "Index page ")
+![alt text](screenshots/ScreenShot2016-12-11at2.28.34PM.png "Index page ")
+![alt text](screenshots/ScreenShot2016-12-11at2.28.49PM.png "Index page ")
+![alt text](screenshots/ScreenShot2016-12-11at2.29.04PM.png "Index page ")
+![alt text](screenshots/ScreenShot2016-12-11at2.29.11PM.png "Index page ")
