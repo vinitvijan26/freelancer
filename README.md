@@ -4,4 +4,4 @@ as the name says, it's a website for freelancers, and people who want to hire fr
 
 screenshots:
 
-screenshots/Screen Shot 2016-12-11 202.28.08 PM.png
+screenshots/ScreenShot2016-12-11202.28.08PM.png
